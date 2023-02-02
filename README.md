@@ -1,6 +1,8 @@
-# ConvertRawToPng
- 
-Petit script afin de convertir des photos RAW vers du PNG. 
+![https://www.canon.fr](https://global.canon/en/corporate/logo/img/logo_01.png)
+
+
+# ConvertRawToPng 
+Petit script afin de convertir des photos RAW vers du PNG/JPEG... 
 
 #### pré-requis:
 * imagemagick installé  sur votre distrib' linux
